@@ -22,7 +22,7 @@ public class NextFitTest {
     }
 
     @Test
-    public void implementNextFit() {
+    public void allocateNextFit() {
         allocator.implementNextFit(new int[]{20, 60, 70, 40});
 
         assertEquals(0, allocator.getAllocate()[0]); // 35 (20)
