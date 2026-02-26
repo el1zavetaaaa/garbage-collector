@@ -1,4 +1,4 @@
-package memory_allocator;
+package yllbnts.gc.memory_allocator;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;

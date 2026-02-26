@@ -1,4 +1,4 @@
-package memory_allocator.next_fit;
+package yllbnts.gc.memory_allocator.next_fit;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
